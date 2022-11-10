@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769674805999",
+    "project_id": "fir-phoneauthlintang",
+    "storage_bucket": "fir-phoneauthlintang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769674805999:android:d71bf9ecfd9554972a111a",
+        "android_client_info": {
+          "package_name": "com.example.firebasephonelintang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769674805999-4mqer9hl02ifumm32ts8pretnac7p3ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ7lyLeQLNl9qnQ6N1omVu0MkyaSYahEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769674805999-4mqer9hl02ifumm32ts8pretnac7p3ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
